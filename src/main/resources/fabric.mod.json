@@ -1,0 +1,11 @@
+{
+  "id": "container_utils",
+  "name": "Container Utils",
+  "description": "This is a common set of classes to help with the creation of containers",
+  "version": "1.0.0",
+  "side": "universal",
+  "initializer": "me.modmuss50.containerUtils.ContainerUtils",
+  "requires": {
+    "fabric": "*"
+  }
+}
